@@ -317,6 +317,12 @@ body{
     margin: 8px;
     transition: all .4s ease;
 }
+.aditya{
+    width: 60px;
+    opacity: .6;
+    margin: 8px;
+    transition: all .4s ease;
+}
 .social-media:hover{
     opacity: 1;
     transform: scale(1.1);
